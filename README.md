@@ -1,6 +1,13 @@
 # Calcolo RSA
 Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e di cifrare/decifrare stringhe di testo tramite l'agoritmo di crittografia asimmetrica RSA
 
+
+
+**Installazione** https://github.com/andre6226/Calcolo_RSA/raw/main/RSAlib/bin/Debug/app.publish/RSA.exe
+
+
+
+
 **Genera chiavi casuali:**
 
 	premendo questo bottone verranno generate e stampate due chiavi della dimensione specificata tramite le opzioni al di sopra del bottone  
@@ -34,5 +41,3 @@ Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e 
 
 
 
-
-**Installazione** https://github.com/andre6226/Calcolo_RSA/raw/main/RSAlib/bin/Debug/app.publish/RSA.exe
