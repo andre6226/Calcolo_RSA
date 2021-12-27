@@ -18,9 +18,9 @@ Barra degli strumenti:
 	1) File:
 		Nuovo: nuovo file vuoto
 		Nuova finestra: apre una nuova finestra
-		Apri: apre un file apre un file preesistente
-		Salva: salva il file attuale
-		Salva con nome: salva il file attuale con nome
+		Apri: apre un file di testo preesistente e sostituisce i dati attuali con quelli presenti nel file di testo
+		Salva: salva i dati attuali
+		Salva con nome: salva i dati attuali in un file di testo
 	2) ?:
 		Visualizza guida: apre questo file
 		Informazioni su Calcolo RSA: visualizza le informazioni riguardanti Calcolo RSA
