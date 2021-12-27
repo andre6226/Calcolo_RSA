@@ -16,7 +16,7 @@ Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e 
 	
 
 **Barra degli strumenti:**
-nbsp**1) File:**
+nbsp&**1) File:**;
 nbspnbspNuovo: nuovo file vuoto  
 nbspnbspNuova finestra: apre una nuova finestra  
 nbspnbspApri: apre un file di testo preesistente e sostituisce i dati attuali con quelli presenti nel file di testo  
