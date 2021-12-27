@@ -16,6 +16,7 @@ Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e 
 	
 
 **Barra degli strumenti:**
+
 	**1) File:**
 		Nuovo: nuovo file vuoto  
 		Nuova finestra: apre una nuova finestra  
