@@ -30,3 +30,11 @@ Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e 
 	2) ?:
 		Visualizza guida: apre questo file  
 		Informazioni su Calcolo RSA: visualizza le informazioni riguardanti Calcolo RSA  
+
+
+
+
+
+**Installazione**
+
+	https://github.com/andre6226/Calcolo_RSA/raw/main/RSAlib/bin/Debug/app.publish/RSA.exe
