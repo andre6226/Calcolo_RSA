@@ -1,5 +1,5 @@
 # Calcolo RSA
-Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e di cifrare/decifrare stringhe di testo tramite l'agoritmo  
+Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e di cifrare/decifrare stringhe di testo tramite l'agoritmo di crittografia assimetrica RSA
 
 **Genera chiavi casuali:**
 
