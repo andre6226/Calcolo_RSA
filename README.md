@@ -16,12 +16,12 @@ Semplice WinForm che permette di generare chiavi RSA a 512/1024/2048/4096 bit e 
 	
 
 **Barra degli strumenti:**
-	**1) File:**
-		Nuovo: nuovo file vuoto  
-		Nuova finestra: apre una nuova finestra  
-		Apri: apre un file di testo preesistente e sostituisce i dati attuali con quelli presenti nel file di testo  
-		Salva: salva i dati attuali  
-		Salva con nome: salva i dati attuali in un file di testo  
-	**2) ?:**
-		Visualizza guida: apre questo file  
-		Informazioni su Calcolo RSA: visualizza le informazioni riguardanti Calcolo RSA  
+nbsp**1) File:**
+nbspnbspNuovo: nuovo file vuoto  
+nbspnbspNuova finestra: apre una nuova finestra  
+nbspnbspApri: apre un file di testo preesistente e sostituisce i dati attuali con quelli presenti nel file di testo  
+nbspnbspSalva: salva i dati attuali  
+nbspnbspSalva con nome: salva i dati attuali in un file di testo  
+nbsp**2) ?:**
+nbspnbspVisualizza guida: apre questo file  
+nbspnbspInformazioni su Calcolo RSA: visualizza le informazioni riguardanti Calcolo RSA  
